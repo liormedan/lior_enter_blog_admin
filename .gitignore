@@ -115,3 +115,6 @@ dist
 # Vite log files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Vercel local config
+.vercel/
